@@ -33,8 +33,10 @@ header {
     color: white;
     text-align: center;
     padding: 1em;
+    padding-bottom: 5px;
     min-height: 9em;
     box-shadow: 0 7px 7px rgba(0, 0, 0, 0.355);
+    min-width: 320px;
 }
 
 #theader {
@@ -56,6 +58,7 @@ header {
 nav {
     text-align: left;
     margin-top: 2em;
+    line-height: 2.5em;
 }
 
 a {
@@ -199,6 +202,7 @@ footer {
     background-color: var(--c5);
     color: var(--c0);
     font-style: italic;
+    min-width: 352px;
 }
 
 .footer-bold {
