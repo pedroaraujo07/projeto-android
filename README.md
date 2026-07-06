@@ -78,9 +78,7 @@ Este projeto foi importante para reforçar conceitos como:
 
 **Preview do projeto:**
 
-```md
-<img src="caminho-da-imagem.png" alt="Preview do Projeto Android">
-```
+<img src="imagens/demo1.png" alt="Preview do Projeto Android" widht="800">
 
 ---
 
