@@ -72,7 +72,7 @@ Este projeto foi importante para reforçar conceitos como:
 
 **Acesse o projeto:**
 
-> **Link:** <a href="https://pedroaraujo07.github.io/projeto-redes-sociais/" target="_blank">Link do site</a>
+> **Link:** <a href="https://pedroaraujo07.github.io/projeto-android/" target="_blank">Link do site</a>
 
 <br>
 
