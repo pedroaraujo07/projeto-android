@@ -59,6 +59,8 @@ nav {
     text-align: left;
     margin-top: 2em;
     line-height: 2.5em;
+    white-space: nowrap;
+    overflow-x: auto;
 }
 
 a {
@@ -69,6 +71,7 @@ a {
     color: var(--c0);
     padding: 10px;
     font-weight: bold;
+    white-space: nowrap;
 }
 
 .menu:hover {
